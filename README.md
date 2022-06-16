@@ -1,2 +1,2 @@
-# C-Sharp-Programming-Exercise
+# C# Programming Exercise
 Practice C# Programming Exercises 
